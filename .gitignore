@@ -1,0 +1,6 @@
+# Ignore all hidden folders (starting with .)
+.*/
+!.git/  # Do not ignore the actual .git folder
+
+# Ignore all CSV files anywhere in the repo
+*.csv
